@@ -34,7 +34,7 @@ namespace degiskenler
             
             string str = "string";
 
-            DateTime dt = DateTime.Now();
+            DateTime dt;
 
             // dönüşümler
 
@@ -42,13 +42,13 @@ namespace degiskenler
             string say_int16_to_str = sayi_int16.ToString();
 
             // string -> sayi (Parse)
-            string str_sayi = "5"
+            string str_sayi = "5";
             Int16 str_to_sayi_Int16 = Int16.Parse(str_sayi);
 
             // string -> sayi (Convert)
             Int32 str_sayi_to_sayi_Int32 = Convert.ToInt32(str_sayi);
 
-            Console.WriteLine(dt_str);
+            Console.WriteLine(str_sayi_to_sayi_Int32);
 
         }
     }
