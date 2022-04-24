@@ -76,6 +76,7 @@ Dizi;
 >[7, 3, 5, 8, 2, 9, 4, 15, 6]
 
 İnsertion Sort'un İlk 4 Adımı;
+
 ![inst_srt_2](img/inst_srt_2.png)
 
  # License 
