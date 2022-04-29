@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\bin\Debug\net5.0\4-TipDonusumleri.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\bin\Debug\net5.0\4-TipDonusumleri.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\bin\Debug\net5.0\4-TipDonusumleri.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\bin\Debug\net5.0\4-TipDonusumleri.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\bin\Debug\net5.0\4-TipDonusumleri.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\bin\Debug\net5.0\ref\4-TipDonusumleri.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\bin\Debug\net5.0\4-TipDonusumleri.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\obj\Debug\net5.0\4-TipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\obj\Debug\net5.0\4-TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\obj\Debug\net5.0\4-TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\obj\Debug\net5.0\4-TipDonusumleri.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\obj\Debug\net5.0\4-TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\obj\Debug\net5.0\4-TipDonusumleri.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\obj\Debug\net5.0\ref\4-TipDonusumleri.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\obj\Debug\net5.0\4-TipDonusumleri.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\4-TipDonusumleri\obj\Debug\net5.0\4-TipDonusumleri.genruntimeconfig.cache
