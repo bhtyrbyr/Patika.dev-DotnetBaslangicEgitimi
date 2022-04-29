@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 
 namespace _4_TipDonusumleri
 {
@@ -22,7 +23,6 @@ namespace _4_TipDonusumleri
                     byte y = (byte)x;
                     byte y = Convert.ToByte(x);
                     byte y = byte.Parse(x);
-
 */
         }
     }
