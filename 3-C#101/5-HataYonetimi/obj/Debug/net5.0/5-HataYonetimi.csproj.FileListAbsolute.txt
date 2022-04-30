@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\bin\Debug\net5.0\5-HataYonetimi.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\bin\Debug\net5.0\5-HataYonetimi.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\bin\Debug\net5.0\5-HataYonetimi.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\bin\Debug\net5.0\5-HataYonetimi.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\bin\Debug\net5.0\5-HataYonetimi.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\bin\Debug\net5.0\ref\5-HataYonetimi.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\bin\Debug\net5.0\5-HataYonetimi.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\obj\Debug\net5.0\5-HataYonetimi.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\obj\Debug\net5.0\5-HataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\obj\Debug\net5.0\5-HataYonetimi.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\obj\Debug\net5.0\5-HataYonetimi.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\obj\Debug\net5.0\5-HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\obj\Debug\net5.0\5-HataYonetimi.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\obj\Debug\net5.0\ref\5-HataYonetimi.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\obj\Debug\net5.0\5-HataYonetimi.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\5-HataYonetimi\obj\Debug\net5.0\5-HataYonetimi.genruntimeconfig.cache
