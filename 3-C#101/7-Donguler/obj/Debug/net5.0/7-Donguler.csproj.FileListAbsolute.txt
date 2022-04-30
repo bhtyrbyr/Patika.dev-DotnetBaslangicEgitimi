@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\bin\Debug\net5.0\7-Donguler.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\bin\Debug\net5.0\7-Donguler.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\bin\Debug\net5.0\7-Donguler.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\bin\Debug\net5.0\7-Donguler.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\bin\Debug\net5.0\7-Donguler.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\bin\Debug\net5.0\ref\7-Donguler.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\bin\Debug\net5.0\7-Donguler.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\obj\Debug\net5.0\7-Donguler.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\obj\Debug\net5.0\7-Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\obj\Debug\net5.0\7-Donguler.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\obj\Debug\net5.0\7-Donguler.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\obj\Debug\net5.0\7-Donguler.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\obj\Debug\net5.0\7-Donguler.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\obj\Debug\net5.0\ref\7-Donguler.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\obj\Debug\net5.0\7-Donguler.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\7-Donguler\obj\Debug\net5.0\7-Donguler.genruntimeconfig.cache
