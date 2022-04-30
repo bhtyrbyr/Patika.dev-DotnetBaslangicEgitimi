@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\bin\Debug\net5.0\6-KararYapilari.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\bin\Debug\net5.0\6-KararYapilari.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\bin\Debug\net5.0\6-KararYapilari.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\bin\Debug\net5.0\6-KararYapilari.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\bin\Debug\net5.0\6-KararYapilari.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\bin\Debug\net5.0\ref\6-KararYapilari.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\bin\Debug\net5.0\6-KararYapilari.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\obj\Debug\net5.0\6-KararYapilari.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\obj\Debug\net5.0\6-KararYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\obj\Debug\net5.0\6-KararYapilari.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\obj\Debug\net5.0\6-KararYapilari.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\obj\Debug\net5.0\6-KararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\obj\Debug\net5.0\6-KararYapilari.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\obj\Debug\net5.0\ref\6-KararYapilari.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\obj\Debug\net5.0\6-KararYapilari.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\6-KararYapilari\obj\Debug\net5.0\6-KararYapilari.genruntimeconfig.cache
