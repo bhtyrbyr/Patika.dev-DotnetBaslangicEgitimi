@@ -7,16 +7,36 @@ namespace _8_Metodlar
         static void Main(string[] args)
         {
             printHelloWorld();
+            bool check = false;
+            Console.WriteLine(check.deneme());
         }
         private static void printHelloWorld()
         {
-            Console.WriteLine("Merhaba Dünya");
+            /*Console.WriteLine("Merhaba Dünya");
 
             Matematikselİslemler mi = new Matematikselİslemler();
             Console.WriteLine(mi.topla(1,2));
-            Console.WriteLine(mi.topla("1","2"));
+            Console.WriteLine(mi.topla("1","2"));*/
+            Rekursif rf = new Rekursif();
+            Console.WriteLine(rf.rekursif(2,-4));
         }
 
+    }
+    public static class Extention{
+        public static string deneme(this bool param){
+            return "true";
+        }
+    }
+    class Rekursif
+    {
+        public float rekursif(int i, int kuvvet){
+            if(kuvvet == 0){
+                return 1;
+            }
+            else if(kuvvet < 0) return 1 / (i * rekursif(i, (kuvvet * (-1)) - 1));
+            else if(kuvvet > 0) return i * rekursif(i, kuvvet - 1);
+            return 0;
+        }
     }
     class Matematikselİslemler
     {
