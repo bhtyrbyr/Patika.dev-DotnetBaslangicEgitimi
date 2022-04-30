@@ -19,6 +19,7 @@ namespace _8_Metodlar
             Console.WriteLine(mi.topla("1","2"));*/
             Rekursif rf = new Rekursif();
             Console.WriteLine(rf.rekursif(2,-4));
+            Console.WriteLine(rf.testf());
         }
 
     }
@@ -29,6 +30,12 @@ namespace _8_Metodlar
     }
     class Rekursif
     {
+        public int testf(int i){
+            return 0;
+        }
+        public string testf(string i){
+            return "0";
+        }
         public float rekursif(int i, int kuvvet){
             if(kuvvet == 0){
                 return 1;

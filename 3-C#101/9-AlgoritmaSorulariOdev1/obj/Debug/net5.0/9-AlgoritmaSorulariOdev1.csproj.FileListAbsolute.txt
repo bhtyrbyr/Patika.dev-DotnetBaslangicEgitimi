@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\bin\Debug\net5.0\9-AlgoritmaSorulariOdev1.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\bin\Debug\net5.0\9-AlgoritmaSorulariOdev1.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\bin\Debug\net5.0\9-AlgoritmaSorulariOdev1.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\bin\Debug\net5.0\9-AlgoritmaSorulariOdev1.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\bin\Debug\net5.0\9-AlgoritmaSorulariOdev1.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\bin\Debug\net5.0\ref\9-AlgoritmaSorulariOdev1.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\bin\Debug\net5.0\9-AlgoritmaSorulariOdev1.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\obj\Debug\net5.0\9-AlgoritmaSorulariOdev1.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\obj\Debug\net5.0\9-AlgoritmaSorulariOdev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\obj\Debug\net5.0\9-AlgoritmaSorulariOdev1.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\obj\Debug\net5.0\9-AlgoritmaSorulariOdev1.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\obj\Debug\net5.0\9-AlgoritmaSorulariOdev1.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\obj\Debug\net5.0\9-AlgoritmaSorulariOdev1.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\obj\Debug\net5.0\ref\9-AlgoritmaSorulariOdev1.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\obj\Debug\net5.0\9-AlgoritmaSorulariOdev1.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\9-AlgoritmaSorulariOdev1\obj\Debug\net5.0\9-AlgoritmaSorulariOdev1.genruntimeconfig.cache
