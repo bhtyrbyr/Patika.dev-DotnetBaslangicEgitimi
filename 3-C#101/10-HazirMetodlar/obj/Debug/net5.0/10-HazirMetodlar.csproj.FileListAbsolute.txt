@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\bin\Debug\net5.0\10-HazirMetodlar.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\bin\Debug\net5.0\10-HazirMetodlar.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\bin\Debug\net5.0\10-HazirMetodlar.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\bin\Debug\net5.0\10-HazirMetodlar.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\bin\Debug\net5.0\10-HazirMetodlar.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\bin\Debug\net5.0\ref\10-HazirMetodlar.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\bin\Debug\net5.0\10-HazirMetodlar.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\obj\Debug\net5.0\10-HazirMetodlar.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\obj\Debug\net5.0\10-HazirMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\obj\Debug\net5.0\10-HazirMetodlar.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\obj\Debug\net5.0\10-HazirMetodlar.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\obj\Debug\net5.0\10-HazirMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\obj\Debug\net5.0\10-HazirMetodlar.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\obj\Debug\net5.0\ref\10-HazirMetodlar.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\obj\Debug\net5.0\10-HazirMetodlar.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\10-HazirMetodlar\obj\Debug\net5.0\10-HazirMetodlar.genruntimeconfig.cache
