@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\bin\Debug\net5.0\11-Koleksiyonlar.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\bin\Debug\net5.0\11-Koleksiyonlar.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\bin\Debug\net5.0\11-Koleksiyonlar.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\bin\Debug\net5.0\11-Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\bin\Debug\net5.0\11-Koleksiyonlar.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\bin\Debug\net5.0\ref\11-Koleksiyonlar.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\bin\Debug\net5.0\11-Koleksiyonlar.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\obj\Debug\net5.0\11-Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\obj\Debug\net5.0\11-Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\obj\Debug\net5.0\11-Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\obj\Debug\net5.0\11-Koleksiyonlar.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\obj\Debug\net5.0\11-Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\obj\Debug\net5.0\11-Koleksiyonlar.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\obj\Debug\net5.0\ref\11-Koleksiyonlar.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\obj\Debug\net5.0\11-Koleksiyonlar.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\11-Koleksiyonlar\obj\Debug\net5.0\11-Koleksiyonlar.genruntimeconfig.cache

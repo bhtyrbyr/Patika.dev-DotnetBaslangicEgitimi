@@ -76,7 +76,7 @@ namespace _10_HazirMetodlar
             Console.WriteLine(DateTime.Now.ToString("MM"));
             Console.WriteLine(DateTime.Now.ToString("MMM"));
             Console.WriteLine(DateTime.Now.ToString("MMMM"));
-*/
+
             Console.WriteLine(Math.Abs(-25));
             Console.WriteLine(Math.Sin(10));
             Console.WriteLine(Math.Cos(10));
@@ -96,6 +96,22 @@ namespace _10_HazirMetodlar
             Console.WriteLine(Math.Exp(3));         // e üzeri 3 ü verir.
             Console.WriteLine(Math.Log10(10));      //  10 sayısının logaritma 10 tabanındaki karşılğı.
 
+*/          
+            Console.WriteLine(deneme("07:05:45PM"));
+        }
+
+        private static string deneme(string s)
+        {
+            DateTime dt = Convert.ToDateTime(s);
+            bool tt = s.Contains("PM");
+            Console.WriteLine(tt);
+            if(tt){
+                dt.AddHours(12);
+                Console.WriteLine(dt);
+                return dt.ToString("HH:mm:ss");
+            }else{
+                return dt.ToString("hh:mm:ss");
+            }
         }
     }
 }
