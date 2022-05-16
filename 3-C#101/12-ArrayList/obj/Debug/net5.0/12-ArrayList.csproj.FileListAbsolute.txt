@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\bin\Debug\net5.0\12-ArrayList.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\bin\Debug\net5.0\12-ArrayList.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\bin\Debug\net5.0\12-ArrayList.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\bin\Debug\net5.0\12-ArrayList.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\bin\Debug\net5.0\12-ArrayList.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\bin\Debug\net5.0\ref\12-ArrayList.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\bin\Debug\net5.0\12-ArrayList.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\obj\Debug\net5.0\12-ArrayList.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\obj\Debug\net5.0\12-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\obj\Debug\net5.0\12-ArrayList.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\obj\Debug\net5.0\12-ArrayList.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\obj\Debug\net5.0\12-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\obj\Debug\net5.0\12-ArrayList.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\obj\Debug\net5.0\ref\12-ArrayList.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\obj\Debug\net5.0\12-ArrayList.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\12-ArrayList\obj\Debug\net5.0\12-ArrayList.genruntimeconfig.cache
