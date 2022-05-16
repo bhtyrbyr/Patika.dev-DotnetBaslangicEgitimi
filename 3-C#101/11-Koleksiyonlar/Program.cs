@@ -71,6 +71,12 @@ namespace _11_Koleksiyonlar
             kullanici.Add(Kullanici1);
 
             kullanici.ForEach(kk => Console.WriteLine(kk));
+            int[] temp = {1,2,3,4,5,6,7};
+            PrintArray<int>(temp);
+        }
+        static void PrintArray<T>(T[] temp){
+            List<T> liste = new List<T>(temp);
+            liste.ForEach(list => Console.WriteLine(list.ToString()));
         }
     }
     class test{
