@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\bin\Debug\net5.0\13-Dictionary.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\bin\Debug\net5.0\13-Dictionary.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\bin\Debug\net5.0\13-Dictionary.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\bin\Debug\net5.0\13-Dictionary.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\bin\Debug\net5.0\13-Dictionary.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\bin\Debug\net5.0\ref\13-Dictionary.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\bin\Debug\net5.0\13-Dictionary.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\obj\Debug\net5.0\13-Dictionary.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\obj\Debug\net5.0\13-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\obj\Debug\net5.0\13-Dictionary.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\obj\Debug\net5.0\13-Dictionary.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\obj\Debug\net5.0\13-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\obj\Debug\net5.0\13-Dictionary.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\obj\Debug\net5.0\ref\13-Dictionary.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\obj\Debug\net5.0\13-Dictionary.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\13-Dictionary\obj\Debug\net5.0\13-Dictionary.genruntimeconfig.cache
