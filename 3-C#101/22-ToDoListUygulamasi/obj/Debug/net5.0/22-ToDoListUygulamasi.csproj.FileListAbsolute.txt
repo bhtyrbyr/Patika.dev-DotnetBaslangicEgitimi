@@ -1,0 +1,16 @@
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\obj\Debug\net5.0\22-ToDoListUygulamasi.csproj.AssemblyReference.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\obj\Debug\net5.0\22-ToDoListUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\obj\Debug\net5.0\22-ToDoListUygulamasi.AssemblyInfoInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\obj\Debug\net5.0\22-ToDoListUygulamasi.AssemblyInfo.cs
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\obj\Debug\net5.0\22-ToDoListUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\bin\Debug\net5.0\22-ToDoListUygulamasi.exe
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\bin\Debug\net5.0\22-ToDoListUygulamasi.deps.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\bin\Debug\net5.0\22-ToDoListUygulamasi.runtimeconfig.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\bin\Debug\net5.0\22-ToDoListUygulamasi.runtimeconfig.dev.json
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\bin\Debug\net5.0\22-ToDoListUygulamasi.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\bin\Debug\net5.0\ref\22-ToDoListUygulamasi.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\bin\Debug\net5.0\22-ToDoListUygulamasi.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\obj\Debug\net5.0\22-ToDoListUygulamasi.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\obj\Debug\net5.0\ref\22-ToDoListUygulamasi.dll
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\obj\Debug\net5.0\22-ToDoListUygulamasi.pdb
+C:\Users\bhtyr\test\Patika.dev-DotnetEgitimi\3-C#101\22-ToDoListUygulamasi\obj\Debug\net5.0\22-ToDoListUygulamasi.genruntimeconfig.cache
