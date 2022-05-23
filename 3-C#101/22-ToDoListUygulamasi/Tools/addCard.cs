@@ -33,8 +33,12 @@ namespace _22_ToDoListUygulamasi
                 newCard.Description = Console.ReadLine();;
                 Console.WriteLine(" Büyüklük Seçiniz -> XS(1),S(2),M(3),L(4),XL(5)  :");
                 byte Sze = byte.Parse(Console.ReadLine());
+                
+                    string i = "coderbyte";
+                    i.Length
                 switch (Sze)
                 {
+                    
                     case 1 : newCard.Size = CardSize.XS; break;
                     case 2 : newCard.Size = CardSize.S; break;
                     case 3 : newCard.Size = CardSize.M; break;
