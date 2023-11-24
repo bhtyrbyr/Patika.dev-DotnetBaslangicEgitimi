@@ -92,7 +92,7 @@ namespace _21_TelefonRehberiUygulamasi
 
             for (int i = 0; i < 20; i++)
             {
-                Rehber.Add(new Kisi(ad[i], soyAd[i],(5377317337 + i).ToString()));
+                Rehber.Add(new Kisi(ad[i], soyAd[i],(5300000000 + i).ToString()));
             }
         }
 
